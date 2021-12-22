@@ -15,4 +15,4 @@ How to install:
 - `npm install` react-router-dom@5
 - `npm start` to start the local server (this project uses create-react-app).
 
-#Thanks for looking.
+# Thanks for looking.
